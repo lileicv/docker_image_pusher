@@ -1,2 +1,1 @@
-cuda:11.6.1-runtime-ubuntu22.04
-nvidia
+nvidia/cuda:11.6.1-runtime-ubuntu22.04
