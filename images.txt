@@ -1,1 +1,1 @@
-demisto/python3:3.12.11.3982393
+nginx:latest
