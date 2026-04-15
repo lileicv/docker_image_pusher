@@ -1,1 +1,1 @@
-rastasheep/ubuntu-sshd:12.04
+takeyamajp/ubuntu-sshd:ubuntu22.04
