@@ -1,1 +1,1 @@
-finalgene/openssh
+rastasheep/ubuntu-sshd:12.04
